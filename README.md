@@ -12,7 +12,7 @@ I'm Currently Learning
 ---
 [![](https://visitcount.itsvg.in/api?id=BANGOURA90&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **BANGOURA90/BANGOURA90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
